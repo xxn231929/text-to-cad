@@ -1,0 +1,42 @@
+# AutoCAD temporary files
+*.bak
+*.dwl
+*.dwl2
+*.tmp
+*.err
+*.log
+acad.err
+acad.fas
+acad.sys
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env/
+
+# Node
+node_modules/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Large binary files
+AutoCAD 2026/
+3rdParty/
+x64/
+x86/
+SetupRes/
+ODIS/
+激活文件/
+Content/
+manifest/
+Setup.exe
+Setup.exe.config
+setup.xml
+upi_list.json
+UPI2_BOM.xml
+
+# WorkBuddy internal data
+.workbuddy/memory/
